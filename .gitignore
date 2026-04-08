@@ -1,0 +1,16 @@
+# Java 컴파일 결과물 제외
+**/bin/
+**/*.class
+
+# VS Code 설정 및 캐시 제외
+**/.vscode/
+**/.factorypath
+
+# Eclipse 잔재 제외 (이미 삭제했으나 재생성 방지)
+**/.settings/
+**/.stackdump
+**/.project
+**/.classpath
+
+# macOS 전용 시스템 파일 (Mac 사용 시)
+.DS_Store
