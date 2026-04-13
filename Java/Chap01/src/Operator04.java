@@ -1,4 +1,4 @@
-
+@SuppressWarnings("unused")
 public class Operator04 {
 
 	public static void main(String[] args) {
