@@ -27,5 +27,6 @@ public class calculator {
                 System.out.println("입력이 잘못되었습니다.");
             }
         }
+        input.close();
     }
 }

@@ -5,10 +5,10 @@ public class Welcome {
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("당신의 이름을 입력하세요 :");
-		String userName = input.next();
+		// String userName = input.next();
 
 		System.out.println("연락처를 입력하세요 : ");
-		int userMobile = input.nextInt();
+		// int userMobile = input.nextInt();
 		// System.out.println("Welcome to Shopping Mall");
 		// System.out.println("Welcome to Book Market!");
 
